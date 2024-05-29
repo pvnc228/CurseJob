@@ -1,0 +1,5 @@
+﻿  Render.cpp
+C:\Users\mist8\Documents\grafika_lab2\OpenGLrememberProj\Render.cpp(115,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\mist8\Documents\grafika_lab2\OpenGLrememberProj\Render.cpp(115,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\mist8\Documents\grafika_lab2\OpenGLrememberProj\Render.cpp(115,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  OpenGLrememberProj.vcxproj -> C:\Users\mist8\Documents\grafika_lab2\Debug\OpenGLrememberProj.exe
